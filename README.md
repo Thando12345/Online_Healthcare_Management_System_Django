@@ -1,0 +1,2 @@
+# Online_Healthcare_Management_System_Django
+Django Project
